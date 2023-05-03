@@ -145,7 +145,7 @@ function Navbar({ topics }) {
                 </a>
               </Link>
 
-              <button className="flex items-center mx-2 lg:mx-4 text-base text-gray-800 hover:text-indigo-600 dark:text-gray-50">
+              {/* <button className="flex items-center mx-2 lg:mx-4 text-base text-gray-800 hover:text-indigo-600 dark:text-gray-50">
                 {isLogin ? (
                   <span
                     className="md:flex items-center"
@@ -160,7 +160,7 @@ function Navbar({ topics }) {
                     <AiOutlineGoogle className="text-xl mx-1" />
                   </span>
                 )}
-              </button>
+              </button> */}
             </div>
           </div>
         </div>
